@@ -413,7 +413,7 @@ NameToCode=Yes
 CheckModel=Yes
 SaveLinks=Yes
 NameToCode=No</a:ModelOptionsText>
-<a:RepositoryFilename>C:\Users\byfer\Desktop\UMG 2022\6TO SEMESTRE\BASE DE DATOS 1\grupo2_bd1\diagrama_prueba.cdm</a:RepositoryFilename>
+<a:RepositoryFilename>C:\Users\Luis Alberto\3D Objects\SweetHome3D\jbl drivers\6to Semestre\Bases de Datos\proyecto final\github\grupo2_bd1\diagrama_prueba.cdm</a:RepositoryFilename>
 <c:ConceptualDiagrams>
 <o:ConceptualDiagram Id="o3">
 <a:ObjectID>1AAFDB74-F3A8-4B32-9064-5560C7AA4CFA</a:ObjectID>
@@ -831,8 +831,8 @@ Shadow=0</a:DisplayPreferences>
 <o:RelationshipSymbol Id="o4">
 <a:CreationDate>1664508028</a:CreationDate>
 <a:ModificationDate>1664508028</a:ModificationDate>
-<a:Rect>((3913,7800), (15363,10937))</a:Rect>
-<a:ListOfPoints>((4313,10125),(9694,10125),(9694,8700),(14963,8700))</a:ListOfPoints>
+<a:Rect>((3913,7800), (16023,10937))</a:Rect>
+<a:ListOfPoints>((4313,10125),(9694,10125),(9694,8700),(15623,8700))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>4631</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -876,7 +876,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:CreationDate>1664507990</a:CreationDate>
 <a:ModificationDate>1664507990</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((14455,6550), (24623,10549))</a:Rect>
+<a:Rect>((15188,6550), (23890,10549))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
